@@ -24,6 +24,11 @@ Edit your docker build with : `DOCKER_BUILDKIT=0 docker build ...`
 - [Makefile](DB2/DB2_server_in_ibmcom_db2_container/Makefile)
 
 ## Oracle database
+
+### Oracle server in container
+- [Makefile](Oracle/Oracle_client_in_container/Makefile)
+- [Dockerfile](Oracle/Oracle_client_in_container/Dockerfile)
+
 ### Oracle server in container
 - [Makefile](Oracle/Oracle_server_in_container/Makefile)
 - [Dockerfile](Oracle/Oracle_server_in_container/Dockerfile)
