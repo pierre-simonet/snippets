@@ -12,6 +12,10 @@ Edit your docker build with : `DOCKER_BUILDKIT=0 docker build ...`
 
 ## DB2 database
 
+### DB2 client in container
+- [Makefile](DB2/DB2_client_in_container/Makefile)
+- [Dockerfile](DB2/DB2_client_in_container/Dockerfile)
+
 ### DB2 server in container
 - [Makefile](DB2/DB2_server_in_container/Makefile)
 - [Dockerfile](DB2/DB2_server_in_container/Dockerfile)
