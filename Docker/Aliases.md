@@ -12,4 +12,7 @@ alias dip='docker image prune'
 alias dipa='docker image prune -a'
 alias dspa='docker system prune -a'
 alias dh='docker history --no-trunc'
+de() {
+        docker exec -it $1 $2
+}
 ```
