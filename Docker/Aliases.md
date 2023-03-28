@@ -11,4 +11,5 @@ alias dra='docker rm -f $(docker ps -a -q)'
 alias dip='docker image prune'
 alias dipa='docker image prune -a'
 alias dspa='docker system prune -a'
+alias dh='docker history --no-trunc'
 ```
