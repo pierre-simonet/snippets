@@ -26,3 +26,8 @@
 - Oracle
   - [Oracle client in container](Docker/Oracle/Oracle_client_in_container/Dockerfile)
   - [Oracle server in container](Docker/Oracle/Oracle_server_in_container/Dockerfile)
+
+## Linux
+
+- Ubuntu
+  - [Clean snap cache](Linux/Ubuntu/clean-snap-cache.sh)
