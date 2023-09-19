@@ -15,6 +15,7 @@
 ## Java
 
 - [Setup Logback](Java/Logback/logback.md)
+- [Get current version](Java/Version/Version.java)
 
 ## Docker
 
