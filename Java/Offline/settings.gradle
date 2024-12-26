@@ -1,0 +1,13 @@
+pluginManagement {
+  repositories {
+    mavenCentral()
+    gradlePluginPortal()
+    flatDir {
+        dirs 'libs'
+    }
+  }
+}
+
+plugins {
+...
+}

@@ -16,6 +16,7 @@
 
 - [Setup Logback](Java/Logback/logback.md)
 - [Get current version](Java/Version/Version.java)
+- [Use Gradle Dependencies offline](Java/Offline/offline.md)
 
 ## Docker
 
