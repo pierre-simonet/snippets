@@ -36,3 +36,7 @@
 
 - Ubuntu
   - [Clean snap cache](Linux/Ubuntu/clean-snap-cache.sh)
+  
+## Claude
+
+- [CLAUDE.md for Java projects](Claude/CLAUDE.md)
