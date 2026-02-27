@@ -37,6 +37,10 @@
 - Ubuntu
   - [Clean snap cache](Linux/Ubuntu/clean-snap-cache.sh)
   
-## Claude
-
-- [CLAUDE.md for Java projects](Claude/CLAUDE.md)
+## IA
+- Skills
+- Agents
+  - [Grumpy Reviewer](https://github.com/sinedied/genaiscript/blob/bc4456d2afa94f843172041aad76990054312d05/genaisrc/linters/grumpy-dev.md)
+  - [SubAgents list](https://github.com/andlaf-ak/claude-code-agents)
+- Claude
+  - [CLAUDE.md for Java projects](Claude/CLAUDE.md)

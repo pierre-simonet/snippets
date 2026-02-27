@@ -1,4 +1,4 @@
-# XXX Project - Claude Configuration
+# XXX Project - IA.Claude Configuration
 
 ## Project Structure
 
