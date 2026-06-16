@@ -31,4 +31,6 @@ Add in `~/.gitconfig` these aliases :
         sa = stash apply
         sd = stash drop
         sad = "!f() { git stash apply "$1" && git stash drop "$1"; }; f"
+        feta = fetch --prune
+        sync = pull --rebase origin master --autostash
 ```
