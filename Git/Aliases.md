@@ -33,4 +33,5 @@ Add in `~/.gitconfig` these aliases :
         sad = "!f() { git stash apply "$1" && git stash drop "$1"; }; f"
         feta = fetch --prune
         sync = pull --rebase origin master --autostash
+        cleanup = "!git branch | sed 's/^[* ]*//' | grep -vxE \"$(git rev-parse --abbrev-ref HEAD)|master|main\" | xargs -r git branch -d"
 ```
