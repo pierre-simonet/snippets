@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      { "matcher": "Bash",    "hooks": [{ "type": "command", "command": "$HOME/.claude/hooks/guard.sh" }] },
+      { "matcher": "mcp__.*", "hooks": [{ "type": "command", "command": "$HOME/.claude/hooks/guard.sh" }] }
+    ]
+  }
+}
