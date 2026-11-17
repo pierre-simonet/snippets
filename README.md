@@ -60,6 +60,7 @@
   - [SubAgents list](https://github.com/andlaf-ak/claude-code-agents)
 - Claude
   - [CLAUDE.md for Java projects](IA/Claude/CLAUDE.md)
+  - [Plugins](IA/Claude/plugins.md) — You should know (side agent that flags what you might have missed)
   - Config templates
     - [User CLAUDE.md template](IA/Claude/CLAUDE-user-template.md)
     - [guard.sh hook](IA/Claude/hooks/guard.sh) · [settings-snippet.json](IA/Claude/hooks/settings-snippet.json)
